@@ -6,7 +6,7 @@ WORKDIR /app
 ENV HUSKY=0
 
 COPY package*.json ./
-RUN npm ci --only=production
+# RUN npm ci --only=production
 
 COPY . .
 
