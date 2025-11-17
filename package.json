@@ -32,11 +32,11 @@
     }
   },
   "_moduleAliases": {
-    "@app": "./src/app",
-    "@routes": "./src/routes",
-    "@services": "./src/services",
-    "@validators": "./src/validators",
-    "@entry": "./src/index.js"
+    "@app": "src/app",
+    "@routes": "src/routes",
+    "@services": "src/services",
+    "@validators": "src/validators",
+    "@entry": "src/index.js"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.3.0",
