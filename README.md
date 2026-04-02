@@ -2,7 +2,7 @@
 
 Node.js + Express service that parses natural-language payment instructions, validates them, and simulates account balance updates.
 
-This project is intentionally small and focused on:
+This project is focused on:
 - Instruction parsing
 - Validation and status code generation
 - Transaction execution (or scheduling state)
